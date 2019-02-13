@@ -16,6 +16,9 @@ node bamazonCustomer.js or node bamazonManager.js
 
 ```
 
+## Demo
+
+[Demo](https://drive.google.com/file/d/1CrYJkH5d0ugLWx4zh67Gj84ZFv7nZOCW/view?usp=sharing) of bamazonCustomer.js
 
 ## Customer - bamazonCustomer.js
 
