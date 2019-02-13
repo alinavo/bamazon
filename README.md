@@ -11,17 +11,31 @@ This application, ran in the terminal, will require [MySQL](https://www.mysql.co
 npm install
 npm install mysql
 npm install inquirer
+npm install console.table
 node bamazonCustomer.js or node bamazonManager.js
 
 ```
 
 
-## Customer
+## Customer - bamazonCustomer.js
 
-![alt text](images/purchase.png "Description goes here")
+###### Making a Purchase
+
+![alt text](images/purchase.png "Successful Purchase")
+
+###### Insufficient Stock
+
+![alt text](images/insufficient.png "Insufficient Stock")
 
 
-## Manager
+## Manager - bamazonManager.js
+
+###### Low Inventory
+![alt text](images/lowInventory.png "Low Inventory")
+
+
+###### Add to Inventory
+![alt text](images/addInventory.png "Add to Inventory")
 
 
 ## Technologies Used
